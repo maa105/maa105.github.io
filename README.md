@@ -1,3 +1,3 @@
 # Demos:
 
-- [SmartTextArea](/smart-textarea)
+- [SmartTextArea](https://maa105.github.io/smart-textarea/)
